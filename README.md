@@ -1,5 +1,6 @@
 <!-- [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&login=oaizab)](https://github.com/mohouyizme/1337-readme) -->
 <!-- <p align="center"><img src="https://badge42.herokuapp.com/api/stats/oaizab?cursus=42cursus&darkmode=true"> </p> -->
+<!-- https://badge.mediaplus.ma/ -->
 [![oaizab's 42 stats](https://badge.mediaplus.ma/black/oaizab)](https://github.com/oaizab)
 <hr />
 <a href="https://github.com/oaizab?tab=repositories">
